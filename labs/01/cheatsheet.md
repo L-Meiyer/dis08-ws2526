@@ -26,7 +26,7 @@ Links sind universal
 
 ---
 
-### Bilder
+### Bilder (wie Links nur mit !)
 #### Inline-Image-Link
 ![Alt-Text](link)
 
