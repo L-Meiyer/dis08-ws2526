@@ -1,0 +1,284 @@
+ ls
+ cd ./bashcrawl-stable-2024.02.09/entrance/
+ ls
+ cat scroll
+ ls
+ cd cellar/
+ ls
+ cat scroll
+ ls
+ cat treasure
+ export I=amulet,\$I
+ echo $I
+ ls
+ cd armoury/
+ ls
+ cat potion
+ ./potion
+ echo $HP
+ echo $HP
+ export HP=15
+ echo $HP
+ ls
+ ./treasure
+ export I=sword,$I
+ ls
+ cat scroll
+ cd chamber/
+ ls
+ cat scroll
+ ./spell
+ ./statue
+ let "HP=HP-5"
+ echo $HP
+ ./treasure
+ export I=diamands, $I
+ echo $I
+ export I=sword, amulet, diamonds, $I
+ echo $I
+ export I=amulet, $I
+ export I=diamonds, $I
+ echo $I
+ echo $I
+ export I=sword, $I
+ export I=sword, $I
+ echo $I
+ export I=diamonds, $I
+ cd..
+ cd ..
+ cd ..
+ cd ..
+ ls
+ history
+ q
+ ls
+ cat scrap
+ ln -s ../../../../.rift portal
+ ln -s ../../../../.rift
+ ls
+ cd chapel/
+ ls
+ ./altar
+ cat scroll
+ cd courtyard/
+ ls
+ ./fountain
+ ./rags
+ export I=rags,fish,$I
+ export I=rags,fish,$I
+ echo $I
+ export I=sword,amulet,$I
+ echo $I
+ ls
+ cat scroll
+ cd aviary/
+ ls
+ ./ crystal
+ ./crystal
+ export I=crystal,$I
+ ls
+ ./penguin
+ export I=$(sed "s/fish//; s/,,/,/" <<< $I)
+ echo $I
+ export I=$(sed "s/fish//; s/,,/,/" <<< $I)
+ echo $I
+ ls
+ cat scroll
+ cd hall/
+ ls
+ ./monster
+ ls
+ ./treasure
+ export=crown,$I
+ ./carcass
+ cd library/
+ ls
+ cat scroll
+ ./tome
+ ls
+ cd ..
+ cd ..
+ cd ..
+ cd ..
+ cd ..
+ ls
+ cd vault/
+ ls
+ ./glass
+ export I=$(sed 's/crystal,//' <<< $I)
+ ls
+ cat s
+ cat scroll
+ ls
+ cd stronghold/
+ ls
+ cat orb1
+ cat orb1
+ cat scroll
+ ls
+ ./goblet
+ cat orb1 > orb2
+ ls
+ cat orb1 > orb3
+ ls
+ ./goblet
+ export=goblet,$I
+ cd nursery/
+ ös
+ ls
+ cat s
+ cat scroll
+ ./spell
+ find . -name "potion"
+ find . -name "potion"
+ cd ..
+ cd ..
+ cd ..
+ find . -name "potion"
+ ls
+ cat ./cellar/armoury/potion > ./vault/stronghold/nursery/
+ cp ./cellar/armoury/potion  ./vault/stronghold/nursery/
+ cd vault/
+ ls
+ cd stronghold/
+ cd
+ cd lenem@Lensch MINGW64 ~/Documents/Dokumente/TH/3_Semester/Data_Modelling/bashcrawl-stable-2024.02.09/entrance/vault/stronghold
+ cd ~/Documents/Dokumente/TH/3_Semester/Data_Modelling/bashcrawl-stable-2024.02.09/entrance/vault/stronghold
+ ls
+ cd nursery/
+ ls
+ ./potion
+ export HP=15
+ ls
+ ./spell
+ export HP=HP-10
+ $H
+ $HP
+ echo $HP
+ export HP=15
+ echo $HP
+ ls
+ cd lab/
+ ls
+ cat scroll
+ ./ghost
+ ls
+ ./treasure
+ export=emerald,$I
+ ./platinum
+ export=platinum,$I
+ cd ..
+ cd ..
+ cd ..
+ cd ..
+ ls
+ cat scrap
+ ln -s ../../../../.rift
+ cd chapel/
+ ls
+ ./altar
+ export=trinket,$I
+ ls
+ cd courtyard/
+ ls
+ cd aviary/
+ ls
+ cd hall
+ ls
+ cd library/
+ ls
+ cd ..
+ cd ..
+ cd ..
+ cd ..
+ ls
+ cd ..
+ ls
+ cd vault/
+ ls
+ cd stronghold/
+ ls
+ cd nursery/
+ ls
+ cd lab/
+ ls
+ cd ..
+ cd ..
+ cd ..
+ cd ..
+ ls
+ cat scrap
+ ln -s ../../../../.rift
+ ln -s ../../../../.rift portal
+ ls
+ cd portal
+ cd rift
+ ./rift
+ ln -s ../../../../.rift portal
+ ln -s .rift portal
+ ls
+ cd portal/
+ ls
+ cat scroll
+ ./box
+ ls
+ ./box
+ ls
+ cd arena/
+ ls
+ cat scroll
+ ls
+ cd ..
+ ls
+ cd spire/
+ ls
+ cat scroll
+ cd mezzanine/
+ ls
+ ./button
+ ls
+ ls
+ cd door/
+ ls
+ ./display
+ ls
+ cd ..
+ cd ..
+ ls
+ cd ..
+ ls
+ cd arena/
+ ls
+ cd pit
+ la
+ ls
+ cat dr
+ cat drum
+ cat scroll
+ ./drummer
+ rm -i drums
+ rm -i drum
+ ls
+ rm drum
+ ks
+ ls
+ ./drummer
+ ./wizard-light
+ ./nyarlathotep
+ let "HP=HP-10"
+ ls
+ ./treasure
+ export=hair,$I
+ ls
+ ./platinum
+ export=bracelet,$I
+ ls
+ ./wizard-light
+ cat end
+ ls
+ ./drummer
+ cd
+ cd..
+ cd..
+ cd ..
+ history
