@@ -1,0 +1,11 @@
+### 1. Glass sponges can live for 15,000 years. 
+- This makes them one of the longest-living organisms on Earth. The immortal jellyfish, however, could theoretically live forever (but scientists aren’t sure) 
+
+### 2. A cloud weighs around a million tonnes. 
+- A cloud typically has a volume of around 1km3 and a density of around 1.003kg per m3 – that's a density that’s around 0.4 per cent lower than the air surrounding it.
+
+### 3. Hippos can’t swim. 
+- Hippos really do have big bones, so big and dense, in fact, that they’re barely buoyant at all. They don’t swim and instead perform a slow-motion gallop on the riverbed or on the sea floor. In fact, hippos can even sleep underwater, thanks to a built-in reflex that allows them to bob up, take a breath, and sink back down without waking. 
+
+source: https://www.sciencefocus.com/science/fun-facts
+
