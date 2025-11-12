@@ -6,4 +6,3 @@ Her revolutionary work paved the way for the development of COBOL.
 She is also famously credited with popularizing the term "debugging" after finding an actual moth stuck inside a computer relay.
 
 
-hallo
